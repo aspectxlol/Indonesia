@@ -14,7 +14,7 @@ Indonesia memiliki begitu banyak tempat wisata yang menarik dan beragam. Bali, m
 Indonesia memiliki beragam suku-suku yang unik dan menarik, dengan kebudayaan dan bahasa mereka sendiri. Beberapa suku yang terkenal di Indonesia adalah suku Jawa, suku Sunda, suku Batak, suku Minangkabau, suku Dayak, suku Papua, dan masih banyak lagi. Setiap suku memiliki ciri khas yang berbeda dalam hal bahasa, pakaian adat, seni, musik, tarian, dan tradisi. [Baca Lebih Lanjut](https://github.com/aspectxlol/Indonesia/blob/main/Suku%20Suku.md)
 
 ## Makanan
-Makanan Indonesia juga sangat terkenal di dunia dengan keanekaragaman rasa dan bahan-bahan yang digunakan. Beberapa makanan yang paling populer adalah nasi goreng, rendang, sate, gado-gado, mie goreng, dan bakso. Setiap daerah di Indonesia memiliki makanan khasnya sendiri yang dapat dinikmati dan dicoba.
+Makanan Indonesia juga sangat terkenal di dunia dengan keanekaragaman rasa dan bahan-bahan yang digunakan. Beberapa makanan yang paling populer adalah nasi goreng, rendang, sate, gado-gado, mie goreng, dan bakso. Setiap daerah di Indonesia memiliki makanan khasnya sendiri yang dapat dinikmati dan dicoba. [Baca Lebih Lanjut](https://github.com/aspectxlol/Indonesia/blob/main/Makanan.md)
 
 ## Hewan
 Indonesia memiliki keanekaragaman hayati yang sangat kaya dan menakjubkan, termasuk hewan-hewan yang unik seperti orangutan, harimau sumatra, badak jawa, dan komodo. Selain itu, ada juga hewan-hewan kecil seperti tarsius, kuskus, dan berbagai jenis burung yang hanya dapat ditemukan di Indonesia.
