@@ -17,6 +17,6 @@ Indonesia memiliki beragam suku-suku yang unik dan menarik, dengan kebudayaan da
 Makanan Indonesia juga sangat terkenal di dunia dengan keanekaragaman rasa dan bahan-bahan yang digunakan. Beberapa makanan yang paling populer adalah nasi goreng, rendang, sate, gado-gado, mie goreng, dan bakso. Setiap daerah di Indonesia memiliki makanan khasnya sendiri yang dapat dinikmati dan dicoba. [Baca Lebih Lanjut](https://github.com/aspectxlol/Indonesia/blob/main/Makanan.md)
 
 ## Hewan
-Indonesia memiliki keanekaragaman hayati yang sangat kaya dan menakjubkan, termasuk hewan-hewan yang unik seperti orangutan, harimau sumatra, badak jawa, dan komodo. Selain itu, ada juga hewan-hewan kecil seperti tarsius, kuskus, dan berbagai jenis burung yang hanya dapat ditemukan di Indonesia.
+Indonesia memiliki keanekaragaman hayati yang sangat kaya dan menakjubkan, termasuk hewan-hewan yang unik seperti orangutan, harimau sumatra, badak jawa, dan komodo. Selain itu, ada juga hewan-hewan kecil seperti tarsius, kuskus, dan berbagai jenis burung yang hanya dapat ditemukan di Indonesia. [Baca Lebih Lanjut](https://github.com/aspectxlol/Indonesia/blob/main/Hewan.md)
 
 Indonesia memiliki keanekaragaman hayati yang sangat kaya dan menakjubkan, termasuk hewan-hewan yang unik seperti orangutan, harimau sumatra, badak jawa, dan komodo. Selain itu, ada juga hewan-hewan kecil seperti tarsius, kuskus, dan berbagai jenis burung yang hanya dapat ditemukan di Indonesia.
