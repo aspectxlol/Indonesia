@@ -8,7 +8,7 @@ Daftar Isi:
 1. [Hewan](https://github.com/aspectxlol/Indonesia/edit/main/README.md#Hewan)
 
 ## Tempat Wisata
-Indonesia memiliki begitu banyak tempat wisata yang menarik dan beragam. Bali, misalnya, dikenal dengan pantainya yang indah dan budaya yang unik. Ada juga tempat wisata sejarah seperti Candi Borobudur di Jawa Tengah atau Taman Mini Indonesia Indah di Jakarta. Selain itu, Indonesia memiliki taman nasional yang luar biasa seperti Taman Nasional Bromo Tengger Semeru dan Taman Nasional Komodo yang terkenal dengan kadal purba bernama Komodo.
+Indonesia memiliki begitu banyak tempat wisata yang menarik dan beragam. Bali, misalnya, dikenal dengan pantainya yang indah dan budaya yang unik. Ada juga tempat wisata sejarah seperti Candi Borobudur di Jawa Tengah atau Taman Mini Indonesia Indah di Jakarta. Selain itu, Indonesia memiliki taman nasional yang luar biasa seperti Taman Nasional Bromo Tengger Semeru dan Taman Nasional Komodo yang terkenal dengan kadal purba bernama Komodo. [Baca Lebih Lanjut](https://github.com/aspectxlol/Indonesia/blob/main/Tempat%20Wisata.md)
 
 ## Suku-suku
 Indonesia memiliki beragam suku-suku yang unik dan menarik, dengan kebudayaan dan bahasa mereka sendiri. Beberapa suku yang terkenal di Indonesia adalah suku Jawa, suku Sunda, suku Batak, suku Minangkabau, suku Dayak, suku Papua, dan masih banyak lagi. Setiap suku memiliki ciri khas yang berbeda dalam hal bahasa, pakaian adat, seni, musik, tarian, dan tradisi.
